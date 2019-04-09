@@ -1,0 +1,3 @@
+rootProject.name = 'nak_2100'
+
+include ':app'
